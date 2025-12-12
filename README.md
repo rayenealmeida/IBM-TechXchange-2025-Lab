@@ -47,7 +47,7 @@ Modelos de IA/ML Utilizados:
 
         XGBoost (eXtreme Gradient Boosting): Modelo preditivo para a classificação de risco de fraude.
 
-## Produtos Alavançados:
+## Produtos Avançados:
 
         AI Toolkit for IBM Z & LinuxONE
 
